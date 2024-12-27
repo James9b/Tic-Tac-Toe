@@ -32,4 +32,4 @@ The game provides a "New Game" button to start fresh after a match.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/James9b/Tic-Tac-Toe.git
-   cd tic-tac-toe
+   cd Tic-Tac-Toe
